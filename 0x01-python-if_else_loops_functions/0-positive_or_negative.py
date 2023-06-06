@@ -1,4 +1,4 @@
-#!/bin/bash/python3
+#!/usr/bin/python3
 if number is 0:
 	print("%d is zero" % number)
 elif number > 0 and True:
