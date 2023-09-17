@@ -1,2 +1,5 @@
--- Creates a table called first_table with values id and name in my MySQL server.
-CREATE TABLE IF NOT EXISTS `first_table` (`id` INT, `name` VARCHAR(256));
+-- create table with id type INT and name type VARCHAR(256)
+CREATE TABLE IF NOT EXISTS first_table (
+  id INT,
+  name VARCHAR(256)
+  );
